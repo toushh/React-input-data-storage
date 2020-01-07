@@ -1,6 +1,6 @@
-yarn add react-native-keychain
-or
+
 npm install --save react-native-keychain
+react-native start
+react-native run-android
 
-
-react-native link react-native-keychain
+<img src="AppImg.jpg" style="height:40%" />
